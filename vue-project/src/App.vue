@@ -1,13 +1,12 @@
 <template>
- <ul>
-      <li v-for="instrument in instruments" :key="instrument.id">{{ instrument.name }}</li>
-    </ul>
-    
   <h1>Rhime Airo O. Ravinera Finals</h1>
   <personal-profile/> <br>
   <food-item/>
   <food-item/>
   <food-item/>
+  <ul>
+      <li v-for="instrument in instruments" :key="instrument.id">{{ instrument.name }}</li>
+    </ul>
   
 </template>
 
