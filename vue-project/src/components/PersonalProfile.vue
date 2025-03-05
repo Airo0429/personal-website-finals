@@ -1,6 +1,6 @@
 <template>
 <div class="container">
-<header> <h1>Personal Profile Finals </h>
+<header> <h1>Personal Profile Finals </h1>
 <main>
  <section class="main-content">
  <div>1 About Me</div>
