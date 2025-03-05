@@ -5,17 +5,32 @@
     </header>
     <main>
       <section class="main-content">
-        <div>1 About Me</div>
-        <div>2 Education /Achievements</div>
-        <div>3 Course</div>
-        <div>4 IT Experience</div>
-        <div>5 Hobbies & Interests</div>
-        <div>6 Goals in Life /Dream</div>
+        <ol>
+          <li>About Me</li>
+          <li>Education/Achievements</li>
+          <li>Bachelor in Computer Science</li>
+          <li>Slight background in front-end (HTML, CSS, JavaScript) and back-end (Node.js).</li>
+          <li>Hobbies: Basketball, League of Legends, Cars, Sneaker Collecting.</li>
+          <li>My dream is to be successful and make a positive impact.</li>
+        </ol>
       </section>
       <aside class="sidebar"></aside>
     </main>
     <footer>Asia Pacific College</footer>
   </div>
 </template>
+
 <script></script>
-<style></style>
+
+<style>
+/* Add your styles here */
+.container {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+ol {
+    list-style-position: inside;
+}
+
+</style>
