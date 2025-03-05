@@ -1,5 +1,5 @@
 <template>
-  <h1>Food</h1>
+  <h1>Rhime Airo O. Ravinera Finals</h1>
   <personal-profile/> <br>
   <food-item/>
   <food-item/>
